@@ -4,7 +4,7 @@ const RECIPES = const [
   //EGG MASALA
   const Recipe(
     recipeName: 'Egg Masala',
-    imageUrl: 'assets/images/egg_bagara_masala_1920x1080.png',
+    imageUrl: 'assets/images/egg_curry.png',
     prepTime: 45,
     complexity: Complexity.Simple,
     affordability: Affordability.$$,
@@ -41,7 +41,7 @@ const RECIPES = const [
   //BANANA CHOCOLATE CAKE
   const Recipe(
     recipeName: 'Banana Chocolate Cake',
-    imageUrl: 'assets/images/chocolate_banana_cake_1920x1080.png',
+    imageUrl: 'assets/images/banana_chocolate_cake.png',
     prepTime: 90,
     complexity: Complexity.Simple,
     affordability: Affordability.$$,
@@ -61,7 +61,7 @@ const RECIPES = const [
   //PANEER TIKKA TOAST
   const Recipe(
     recipeName: 'Paneer Tikka Toast',
-    imageUrl: 'assets/images/paneer_tikka_toast_1920x1080.png',
+    imageUrl: 'assets/images/paneer_tikka.png',
     prepTime: 45,
     complexity: Complexity.Simple,
     affordability: Affordability.$$,
@@ -87,7 +87,7 @@ const RECIPES = const [
   //BUTTER GARLIC MUSHROOMS
   const Recipe(
     recipeName: 'Butter Garlic Mushrooms',
-    imageUrl: 'assets/images/butter_garlic_mushrooms_1920x1080.png',
+    imageUrl: 'assets/images/butter_mushrooms.png',
     prepTime: 45,
     complexity: Complexity.Simple,
     affordability: Affordability.$$,
@@ -110,7 +110,7 @@ const RECIPES = const [
   //RABRI
   const Recipe(
     recipeName: 'Rabri',
-    imageUrl: 'assets/images/rabri_1920x1080.png',
+    imageUrl: 'assets/images/rabri.png',
     prepTime: 55,
     complexity: Complexity.Simple,
     affordability: Affordability.$$,
@@ -139,7 +139,7 @@ const RECIPES = const [
 //CHICKEN MAYO SANDWICH
   const Recipe(
     recipeName: 'Chicken Mayo Sandwich',
-    imageUrl: 'assets/images/chicken_mayo_sandwich_1920x1080.png',
+    imageUrl: 'assets/images/sandwich.png',
     prepTime: 25,
     complexity: Complexity.Simple,
     affordability: Affordability.$,
@@ -165,7 +165,7 @@ const RECIPES = const [
 //GREEK SALAD
   const Recipe(
     recipeName: 'Greek Salad',
-    imageUrl: 'assets/images/greek_salad_1920x1080.png',
+    imageUrl: 'assets/images/greek_salad.png',
     prepTime: 25,
     complexity: Complexity.Simple,
     affordability: Affordability.$,
@@ -201,7 +201,7 @@ const RECIPES = const [
 //VEG BIRYANI
   const Recipe(
     recipeName: 'Veg Biryani',
-    imageUrl: 'assets/images/biryani_1920x1080.png',
+    imageUrl: 'assets/images/biryani.png',
     prepTime: 60,
     complexity: Complexity.Challenging,
     affordability: Affordability.$,
